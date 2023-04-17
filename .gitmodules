@@ -1,3 +1,6 @@
 [submodule "jumpPlusHW1"]
 	path = jumpPlusHW1
 	url = git@github.com:miguebarbell/jumpPlusHW1.git
+[submodule "jumPLUSHW2"]
+	path = jumPLUSHW2
+	url = git@github.com:/miguebarbell/jumPLUSHW2.git
