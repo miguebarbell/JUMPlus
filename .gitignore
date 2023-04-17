@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 .idea
 out
-||||||| empty tree
-=======
 # Compiled class file
 *.class
 
@@ -25,5 +22,5 @@ out
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
->>>>>>> 04e16e1bbdf15793f5fb01d5580c55bb11989c8e
+/.vale.ini
+/jumpPlusHW1/.idea/
