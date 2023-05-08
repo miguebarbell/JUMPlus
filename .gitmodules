@@ -7,3 +7,6 @@
 [submodule "JUMPplusHW3"]
 	path = JUMPplusHW3
 	url = git@github.com:/miguebarbell/JUMPplusHW3.git
+[submodule "PG2"]
+	path = PG2
+	url = git@github.com:/miguebarbell/PG2.git
